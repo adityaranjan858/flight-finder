@@ -33,7 +33,7 @@ function AppInner() {
             <PriceFilter />
           </aside>
 
-          <section className="flex-1">
+          <section id="flights-section" className="flex-1">
             <SortBar />
 
             {isSelected ? (

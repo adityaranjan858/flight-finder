@@ -74,7 +74,13 @@ function onSearch() {
     return
   }
   // Keep behavior consistent: dispatch current origin/destination (date is intentionally ignored for filtering)
-  dispatch(setFilters({ origin: localOrigin, destination: localDestination }))
+    dispatch(setFilters({ origin: localOrigin, destination: localDestination }))
+    // Notify other components (header) that a search was performed so mobile menu can close and UI can scroll
+    try {
+      window.dispatchEvent(new CustomEvent('aertrip:search'))
+    } catch (e) {
+      // ignore in environments without window
+    }
 }
 
   
