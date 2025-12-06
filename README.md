@@ -2,7 +2,7 @@
 
 ** Aertrip Flight Finder** is a modern web application to search and explore flights quickly and easily. Built using **React**, **Vite**, **Tailwind CSS**, and **JavaScript**, it provides a responsive and interactive user experience.
 
-🔗 **Live Demo:** [aertrip-flight-finder.vercel.app](aertrip-flight-finder.vercel.app)
+🔗 **Live Demo:** [aertrip-flight-finder.vercel.app](https://aertrip-flight-finder.vercel.app)
 
 ---
 
