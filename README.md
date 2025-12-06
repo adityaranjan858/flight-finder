@@ -1,10 +1,9 @@
-# Aertrip Flight Finder 🚀
+# Flight Finder 🚀
 
-** Aertrip Flight Finder** is a modern web application to search and explore flights quickly and easily. Built using **React**, **Vite**, **Tailwind CSS**, and **JavaScript**, it provides a responsive and interactive user experience.
+**Flight Finder** is a modern web application to search and explore flights quickly and easily. Built using **React**, **Vite**, **Tailwind CSS**, and **JavaScript**, it provides a responsive and interactive user experience.
 
-🔗 **Live Demo:** [aertrip-flight-finder.vercel.app](https://aertrip-flight-finder.vercel.app)
+🔗 **Live Demo:** [flight-finder-beta.vercel.app](https://flight-finder-beta.vercel.app)
 
----
 
 ## Features ✨
 
@@ -33,5 +32,5 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/AnamikaKashyap/aertrip-flight-finder.git
+git clone https://github.com/adityaranjan858/flight-finder.git
 cd <your-repo-folder>
